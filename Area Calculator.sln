@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Area Calculator", "Area Calculator\Area Calculator.pyproj", "{026CE328-F15D-4C16-9B52-A3B4BBD62594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026CE328-F15D-4C16-9B52-A3B4BBD62594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026CE328-F15D-4C16-9B52-A3B4BBD62594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79B457D3-629B-4363-9EAA-08E06197CEC8}
+	EndGlobalSection
+EndGlobal
